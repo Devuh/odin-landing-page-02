@@ -178,3 +178,10 @@ body {
     color: #f9faf8;
     font-weight: 500;
 }
+
+.footer {
+    text-align: center;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    padding: 15px;
+}
