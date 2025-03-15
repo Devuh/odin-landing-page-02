@@ -94,6 +94,8 @@ body {
     display: flex;
     justify-content: space-evenly;
     padding-bottom: 102px;
+    flex-wrap: wrap;
+    gap: 10px;
 }
 
 .captioned-box {
