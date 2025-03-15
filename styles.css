@@ -101,6 +101,7 @@ body {
     flex-direction: column;
     width: 150px;
     gap: 5px;
+    align-items: center;
 }
 
 .captioned-box div {
